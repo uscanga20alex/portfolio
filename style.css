@@ -45,3 +45,12 @@ h3 {
   font-size: 16px;
   text-align: center;
 }
+a {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: black;  }
+a:hover   { color: blue; }
+a:active  { color: green;  }
+a:visited { color: red;  }
