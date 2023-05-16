@@ -11,6 +11,7 @@ img {
   padding: 10px;
   border-radius: 150px;
 }
+/* all the border lines */
 hr {
   border: 1px solid black;
   margin: 10px;
@@ -49,7 +50,7 @@ a {
   font-family: Arial, sans-serif;
   font-size: 20px;
 }
-
+/* The provided links */
 a:link    { color: black;  }
 a:hover   { color: blue; }
 a:active  { color: green;  }
